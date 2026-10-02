@@ -1,0 +1,15 @@
+C:\Users\User\Documents\mechtanov\Games\bin\Debug\net10.0\Games.exe
+C:\Users\User\Documents\mechtanov\Games\bin\Debug\net10.0\Games.deps.json
+C:\Users\User\Documents\mechtanov\Games\bin\Debug\net10.0\Games.runtimeconfig.json
+C:\Users\User\Documents\mechtanov\Games\bin\Debug\net10.0\Games.dll
+C:\Users\User\Documents\mechtanov\Games\bin\Debug\net10.0\Games.pdb
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\Games.AssemblyInfoInputs.cache
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\Games.AssemblyInfo.cs
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\Games.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\Games.dll
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\refint\Games.dll
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\Games.pdb
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\Games.genruntimeconfig.cache
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\ref\Games.dll
+C:\Users\User\Documents\mechtanov\Games\obj\Debug\net10.0\Games.csproj.Up2Date
